@@ -8,8 +8,12 @@ Steps:
 5. After preprocessing you have to store data inside MONGODB
 6. You have to load the data from mongo db
 
-Model
-Regression:linear regression,ridge regression,lasso regression,elastic net, support vector regression
+Model Regression:
+1. Linear regression
+2. Ridge regression
+3. Lasso regression
+4. Elastic net
+5. Support vector regression
 
 Hyperparameter tuning is mandatory(GRID SEARCH CV)
 
