@@ -19,4 +19,4 @@
   * print(classification_report) it is available inside scikit_learn
   * (analysis accuracy,f1_score)
 
-> Submission form:https://forms.gle/qnVhjQ9bkwFT4vax5
+> Submission form: https://forms.gle/qnVhjQ9bkwFT4vax5
