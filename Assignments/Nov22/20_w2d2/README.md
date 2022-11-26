@@ -7,10 +7,10 @@
   1. Logistic regression
   2. SVM
   3. Decision tree
-  4. Random forest:
-      * Adaboost
-      * Gradient boost
-      * XGboost
+  4. Random forest
+  5. Adaboost
+  6. Gradient boost
+  7. XGboost
 
 * Hyperparameter tuning is mandatory: `Grid Search CV` or `Random Search CV` or `Optuna`
 
